@@ -6,3 +6,5 @@ Aplikasi ini menjadi solusi untuk kalian yang ingin mencari tahun bagaimana cara
 
 ## Gambar
 
+![alt text](https://github.com/ThomasSusilo/aplikasi-musik/blob/master/Screen1.png)
+![alt text](https://github.com/ThomasSusilo/aplikasi-musik/blob/master/Screen2.png)
